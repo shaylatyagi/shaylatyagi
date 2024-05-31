@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shaylatyagi
-- 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...python,c,c++
+- 👀 I’m interested in ...coding,hackathons,ai/ml,embedded systems,deep tech
+- 🌱 I’m currently learning ...python,c,c++,java
 - 💞️ I’m looking to collaborate on ...projects,ideas etc
 - 📫 How to reach me ...linked_in-linkedin.com/in/shayla-tyagi-90281328a
 
