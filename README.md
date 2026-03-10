@@ -15,6 +15,3 @@ I am learning more about various technologies and continuously working on improv
 - **Web Technologies**: React.js, Vite, CSS, HTML
 - **Version Control**: Git, GitHub
 - **Database**: SQL, MySQL, PostgreSQL
-
-## GitHub Stats:
-![Shayla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaylatyagi&show_icons=true&count_private=true)
